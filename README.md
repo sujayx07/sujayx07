@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Sujay+Dey+a+Passionate+Developer.)](https://git.io/typing-svg)
-I love exploring new technologies and creating innovative solutions. I have acquired the skills and knowledge to ensure the project's success.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Sujay+Dey.)](https://git.io/typing-svg)<h3>A Passionate Developer. I love exploring new technologies and creating innovative solutions. I have acquired the skills and knowledge to ensure the project's success.</h3>
 
 <!--
 **SujayDeyTMSL/SujayDeyTMSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
