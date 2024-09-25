@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on MERN Stack 😎
-👯 I’m looking to collaborate on Full Stack Projects 🤝
+- 🔭 I’m currently working on MERN Stack 😎
+- 👯 I’m looking to collaborate on Full Stack Projects 🤝
 
 
 ## 🌐 Socials:
