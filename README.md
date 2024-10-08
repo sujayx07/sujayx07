@@ -26,7 +26,7 @@
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,figma,flutter,react,tailwind,nodejs,python,dart,figma,firebase,solidity,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,figma,flutter,react,tailwind,nodejs,python,dart,figma,firebase,git" />
   </a>
 </p>
 
