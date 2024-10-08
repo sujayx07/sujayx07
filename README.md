@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,js,figma,flutter,react,tailwind,nodejs,python,figma,firebase,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,figma,flutter,react,tailwind,nodejs,python,dart,figma,firebase,git" />
   </a>
 </p>
 
