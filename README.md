@@ -4,10 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi++there%F0%9F%91%8B%2C+I'm+Sujay+Dey.)](https://git.io/typing-svg)
 <h2>A Passionate Developer. I love exploring new technologies and creating innovative solutions. I have acquired the skills and knowledge to ensure the project's success.</h2>
-
-- 🔭 I’m currently working on MERN Stack 😎
-- 👯 I’m looking to collaborate on Full Stack Projects 🤝
-  
+<div> 
+  <img align="right" alt="Coding" width="120" style="margin-top: -20px;" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" alt="GitHub Streak Stats" />
+  <div>
+    <p>🔭 I’m currently working on MERN Stack 😎</p>
+    <p>👯 I’m looking to collaborate on Full Stack Projects 🤝</p>
+  </div>
+ 
+</div>
 
 
 ## 🌐 Socials:
