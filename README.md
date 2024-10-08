@@ -27,6 +27,18 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/does_not_exist.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-dey-tmsl) 
 
+<p align="left">
+  <a href="https://instagram.com/does_not_exist.ai">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+   <a href="https://www.linkedin.com/in/sujay-dey-tmsl/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+   <a href="https://github.com/SujayDeyTMSL/SujayDeyTMSL/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev/">
