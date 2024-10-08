@@ -5,20 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi++there%F0%9F%91%8B%2C+I'm+Sujay+Dey.)](https://git.io/typing-svg)
 <h2>A Passionate Developer. I love exploring new technologies and creating innovative solutions. I have acquired the skills and knowledge to ensure the project's success.</h2>
 
-<!--
-**SujayDeyTMSL/SujayDeyTMSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working on MERN Stack 😎
 - 👯 I’m looking to collaborate on Full Stack Projects 🤝
   
@@ -26,21 +12,21 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://instagram.com/does_not_exist.ai">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://instagram.com/does_not_exist.ai/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
-   <a href="https://www.linkedin.com/in/sujay-dey-tmsl/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+   <a href="https://www.linkedin.com/in/sujay-dey-tmsl/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-   <a href="https://github.com/SujayDeyTMSL/SujayDeyTMSL/">
-    <img src="https://skillicons.dev/icons?i=github" />
+   <a href="https://github.com/SujayDeyTMSL/SujayDeyTMSL/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github"/>
   </a>
 </p>
 
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,figma,flutter,react,tailwind,nodejs,python,dart,figma,firebase,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,figma,flutter,react,tailwind,nodejs,python,dart,figma,firebase,solidity,git" />
   </a>
 </p>
 
