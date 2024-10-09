@@ -9,6 +9,7 @@
   <div>
     <p>🔭 I’m currently working on MERN Stack 😎</p>
     <p>👯 I’m looking to collaborate on Full Stack Projects 🤝</p>
+    <p>💬 Ask me about Technology 👨‍💻</p>
   </div>
  
 </div>
