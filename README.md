@@ -23,7 +23,7 @@
    <a href="https://www.linkedin.com/in/sujayx07/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-   <a href="https://github.com/SujayDeyTMSL/sujayx07/" target="_blank">
+   <a href="https://github.com/sujayx07/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
 </p>
