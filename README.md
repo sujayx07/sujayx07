@@ -31,7 +31,7 @@
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,next,tailwind,nodejs,mongodb,python,figma,firebase,git,flutter,solidity" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,next,tailwind,nodejs,express,mongodb,python,figma,firebase,git,flutter,solidity" />
   </a>
 </p>
 
