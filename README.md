@@ -10,21 +10,21 @@
   </a>
 </p>
 
----
+----
 
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="250" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500" />
 </div>
 
 <br>
 
-- 🎯 Passionate **Full-Stack Developer** focused on building clean, scalable, and impactful web applications.
-- 🌱 Currently diving deeper into **MERN Stack**, **Next.js**, **Web3**, and **AI Integration**.
-- 🚀 Always on the lookout to **collaborate on exciting tech projects**.
-- 🧠 Love exploring **new technologies**, experimenting, and pushing creative limits.
-- 💬 Always open for a chat about **tech, startups, or crazy ideas**!
+- ### 🎯 Passionate **Full-Stack Developer** focused on building clean, scalable, and impactful web applications.
+- ### 🌱 Currently diving deeper into **MERN Stack**, **Next.js**, **Web3**, and **AI Integration**.
+- ### 🚀 Always on the lookout to **collaborate on exciting tech projects**.
+- ### 🧠 Love exploring **new technologies**, experimenting, and pushing creative limits.
+- ### 💬 Always open for a chat about **tech, startups, or crazy ideas**!
 
 ---
 
@@ -75,9 +75,9 @@
 
 ## ✨ Fun Extras
 
-- 🎨 Designing smooth UI experiences with **TailwindCSS** and **Figma**.
-- 🛠 Building side projects for fun, learning, and real-world impact.
-- 🛰️ Dreaming big about **future tech**, **blockchain innovations**, and **space exploration**. 🚀
+- ### 🎨 Designing smooth UI experiences with **TailwindCSS** and **Figma**.
+- ### 🛠 Building side projects for fun, learning, and real-world impact.
+- ### 🛰️ Dreaming big about **future tech**, **blockchain innovations**, and **space exploration**. 🚀
 
 
 ---
