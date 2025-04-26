@@ -1,6 +1,6 @@
 <!-- Centered Logo or Banner -->
 <p align="center">
-  <img src="sujay.svg" alt="Sujay Dey Logo" width="220px" />
+  <img src="sujay.svg" alt="Sujay Dey Logo" />
 </p>
 
 <!-- Typing Animation -->
@@ -79,13 +79,6 @@
 - 🛠 Building side projects for fun, learning, and real-world impact.
 - 🛰️ Dreaming big about **future tech**, **blockchain innovations**, and **space exploration**. 🚀
 
----
-
-## 🧡 Visitor Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sujayx07&label=Profile+Visits&color=12&icon=0&pretty=true" alt="Visitor Counter" />
-</p>
 
 ---
 <!-- Made with 💖 by Sujay Dey -->
