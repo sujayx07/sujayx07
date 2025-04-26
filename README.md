@@ -20,7 +20,7 @@
 
 <br>
 
-- ### 🎯 Passionate **Full-Stack Developer** focused on building clean, scalable, and impactful web applications.
+- ### 🎯 Passionate **Full-Stack Developer** focused on building scalable, and impactful web applications.
 - ### 🌱 Currently diving deeper into **MERN Stack**, **Next.js**, **Web3**, and **AI Integration**.
 - ### 🚀 Always on the lookout to **collaborate on exciting tech projects**.
 - ### 🧠 Love exploring **new technologies**, experimenting, and pushing creative limits.
